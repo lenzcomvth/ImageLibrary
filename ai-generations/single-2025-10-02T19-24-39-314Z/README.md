@@ -1,9 +1,0 @@
-# AI Generated Image
-
-## Details
-- **Prompt:** `Chân dung điện ảnh siêu thực, độ sắc nét 8K, tỷ lệ dọc 9:16. Giữ nguyên chính xác nhận dạng khuôn mặt từ ảnh tham chiếu đã tải lên — cấu trúc khuôn mặt được khóa 100%. Một phụ nữ Đông Á xinh đẹp ở độ tuổi đầu 20, với làn da trắng, mịn màng và khuôn mặt trái xoan. Cô ấy có đôi mắt to, biểu cảm màu nâu, sống mũi nhỏ định hình rõ ràng và đôi môi đầy đặn màu hồng san hô. Mái tóc đen tuyền dài, thẳng, rẽ ngôi lệch nhẹ sang trái và buông xõa qua vai. Lớp trang điểm tự nhiên nhưng tinh tế, với phấn mắt màu nâu nhạt, kẻ mắt cánh nhẹ nhàng, lông mày được định hình rõ và má hồng nhẹ nhàng trên gò má. Cô ấy mặc một chiếc áo đen thanh lịch với tay phồng và viền ren đen tinh xảo quanh đường cổ chữ V sâu. Vải áo trông mịn màng, có thể là lụa hoặc satin. Không có đạo cụ hay phụ kiện nào nhìn thấy được. Cận cảnh trung bình, được đóng khung từ ngực trở lên, với chủ thể nhìn thẳng vào máy ảnh với biểu cảm tự tin nhưng dịu dàng. Đầu cô ấy hơi nghiêng. Phông nền là một bức tường màu be nhạt trơn, được làm mờ nhẹ, tạo độ sâu trường ảnh nông. Máy ảnh ở ngang tầm mắt. Ánh sáng nhân tạo mềm mại, khuếch tán từ phía trước, tạo ra bóng và vùng sáng nhẹ nhàng, làm nổi bật làn da không tì vết của cô ấy. Bầu không khí thanh lịch và sang trọng. Chân dung quyến rũ độ phân giải cao, phong cách chụp ảnh studio, siêu chi tiết, chân thực, màu sắc sống động, lấy nét sắc nét, kết cấu da tự nhiên, đẹp mắt về mặt thẩm mỹ.`
-- **Category:** Nhân vật
-- **Source Image:** [View Source](https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png)
-
-## Image
-![AI Generated Image](./image.jpg)
